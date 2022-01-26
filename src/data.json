@@ -1,0 +1,764 @@
+[
+    {
+        "Num": 83,
+        "Company": "LEAD School",
+        "Sector": "Edtech",
+        "Entry Valuation^^ ($B)": 1.1,
+        "Valuation ($B)": 1.1,
+        "Entry": "Jan\/2022",
+        "Location": "Mumbai",
+        "SelectInvestors": "GSV Ventures, WestBridge, Elevar Equity, TPG Growth"
+       },
+       {
+        "Num": 82,
+        "Company": "Fractal",
+        "Sector": "SaaS - Analytics",
+        "Entry Valuation^^ ($B)": 1,
+        "Valuation ($B)": 1,
+        "Entry": "Jan\/2022",
+        "Location": "Mumbai",
+        "SelectInvestors": "TPG Capital, TA Associates, Khazanah, Apax Partners"
+       },
+       {
+        "Num": 81,
+        "Company": "Global Bees",
+        "Sector": "Aggregator - Consumer Brands",
+        "Entry Valuation^^ ($B)": 1.1,
+        "Valuation ($B)": 1.1,
+        "Entry": "Dec\/2021",
+        "Location": "Delhi",
+        "SelectInvestors": "PremjiInvest, SoftBank Corp, TPG Capital, Steadview Capital"
+       },
+       {
+        "Num": 80,
+        "Company": "Mamaearth",
+        "Sector": "D2C - Personal Care",
+        "Entry Valuation^^ ($B)": 1.07,
+        "Valuation ($B)": 1.07,
+        "Entry": "Dec\/2021",
+        "Location": "Gurgaon",
+        "SelectInvestors": "Sequoia Capital India, Sofina, Sharrp Ventures, Fireside Ventures"
+       },
+       {
+        "Num": 79,
+        "Company": "Pristyn Care",
+        "Sector": "Healthtech - Elective Surgery Services",
+        "Entry Valuation^^ ($B)": 1.4,
+        "Valuation ($B)": 1.4,
+        "Entry": "Dec\/2021",
+        "Location": "Gurgaon",
+        "SelectInvestors": "Tiger Global, Sequoia Capital India, Hummingbird Ventures, Epiq Capital"
+       },
+       {
+        "Num": 78,
+        "Company": "Slice",
+        "Sector": "Fintech - Credit Cards",
+        "Entry Valuation^^ ($B)": 1,
+        "Valuation ($B)": 1,
+        "Entry": "Nov\/2021",
+        "Location": "Bangalore",
+        "SelectInvestors": "Tiger Global, Blume Ventures, Das Capital, Simile Venture Partners, Gunosy Capital"
+       },
+       {
+        "Num": 77,
+        "Company": "Upstox",
+        "Sector": "Fintech - Brokerage",
+        "Entry Valuation^^ ($B)": 3.4,
+        "Valuation ($B)": 3.4,
+        "Entry": "Nov\/2021",
+        "Location": "Mumbai",
+        "SelectInvestors": "Tiger Global, Ratan Tata, Kalaari Capital"
+       },
+       {
+        "Num": 76,
+        "Company": "Spinny",
+        "Sector": "Marketplace - Used Cars",
+        "Entry Valuation^^ ($B)": 1.5,
+        "Valuation ($B)": 1.8,
+        "Entry": "Nov\/2021",
+        "Location": "Gurgaon",
+        "SelectInvestors": "Tiger Global, Blume Ventures, General Catalyst Partners, Elevation Capital, Accel India"
+       },
+       {
+        "Num": 75,
+        "Company": "NoBroker",
+        "Sector": "Proptech - Classifieds",
+        "Entry Valuation^^ ($B)": 1,
+        "Valuation ($B)": 1,
+        "Entry": "Nov\/2021",
+        "Location": "Bangalore",
+        "SelectInvestors": "Tiger Global, General Atlantic, Elevation Capital, Beenext, Moore Strategic Ventures"
+       },
+       {
+        "Num": 74,
+        "Company": "Mensa Brands",
+        "Sector": "Aggregator - Consumer Brands",
+        "Entry Valuation^^ ($B)": 1.2,
+        "Valuation ($B)": 1.2,
+        "Entry": "Nov\/2021",
+        "Location": "Bangalore",
+        "SelectInvestors": "Tiger Global, Alpha Wave Global, Accel India, Norwest, Prosus Ventures"
+       },
+       {
+        "Num": 73,
+        "Company": "CureFit",
+        "Sector": "Healthtech - Wellness",
+        "Entry Valuation^^ ($B)": 1.5,
+        "Valuation ($B)": 1.5,
+        "Entry": "Nov\/2021",
+        "Location": "Bangalore",
+        "SelectInvestors": "Accel India, Kalaari Capital, Chiratae Ventures, Zomato, Temasek"
+       },
+       {
+        "Num": 72,
+        "Company": "MyGlamm",
+        "Sector": "D2C - Personal Care",
+        "Entry Valuation^^ ($B)": 1.2,
+        "Valuation ($B)": 1.2,
+        "Entry": "Nov\/2021",
+        "Location": "Mumbai",
+        "SelectInvestors": "Amazon, Ascent Capital, Bessemer, Accel India, Wipro Ventures, Kalaari Capital"
+       },
+       {
+        "Num": 71,
+        "Company": "Acko",
+        "Sector": "Fintech - General Insurance",
+        "Entry Valuation^^ ($B)": 1.1,
+        "Valuation ($B)": 1.1,
+        "Entry": "Oct\/2021",
+        "Location": "Bangalore",
+        "SelectInvestors": "Accel India, Elevation Capital, Amazon, General Atlantic, Multiples PE"
+       },
+       {
+        "Num": 70,
+        "Company": "Cardekho",
+        "Sector": "Marketplace - Used Cars",
+        "Entry Valuation^^ ($B)": 1.2,
+        "Valuation ($B)": 1.2,
+        "Entry": "Oct\/2021",
+        "Location": "Jaipur",
+        "SelectInvestors": "Sequoia Capital India, Hillhouse Capital, CapitalG, LeapFrog"
+       },
+       {
+        "Num": 69,
+        "Company": "Rebel Foods",
+        "Sector": "Foodtech - Cloud Kitchen",
+        "Entry Valuation^^ ($B)": 1.4,
+        "Valuation ($B)": 1.4,
+        "Entry": "Oct\/2021",
+        "Location": "Mumbai",
+        "SelectInvestors": "Sequoia Capital India, Lightbox, Coatue Management, RTP Global, QIA, Evolvence India"
+       },
+        {
+            "Num": "68",
+            "Company": "CoinSwitch",
+            "Sector": "Cryptocurrency Exchange",
+            "Valuation": "1.9",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Tiger Global, Sequoia Capital India, Ribbit Capital, Andreessen Horowitz, Coinbase Ventures"
+        },
+        {
+            "Num": "67",
+            "Company": "Licious",
+            "Sector": "D2C",
+            "Valuation": "1",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Mayfield, 3ONE4 Capital, Sistema Asia Fund, Bertelsmann India, Vertex, Multiples PE"
+        },
+        {
+            "Num": "66",
+            "Company": "Vedantu",
+            "Sector": "Edtech",
+            "Valuation": "1",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Accel India, Tiger Global, Omidyar Network, WestBridge, ABC World Asia"
+        },
+        {
+            "Num": "65",
+            "Company": "Apna.co",
+            "Sector": "Marketplace - Jobs",
+            "Valuation": "1.1",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Sequoia Capital India, Lightspeed Ventures, Tiger Global, Insight Venture Partners"
+        },
+        {
+            "Num": "64",
+            "Company": "Mobile Premier League",
+            "Sector": "Gaming",
+            "Valuation": "2.3",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Sequoia Capital India, Beenext, Moore Strategic Ventures, RTP Global, VH Capital"
+        },
+        {
+            "Num": "63",
+            "Company": "Zetwerk",
+            "Sector": "Marketplace - Manufacturing Services",
+            "Valuation": "1",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Kae Capital, Sequoia Capital India, Accel India, Lightspeed Ventures, D1 Capital Partners"
+        },
+        {
+            "Num": "62",
+            "Company": "Grofers",
+            "Sector": "E-Commerce - Groceries",
+            "Valuation": "1",
+            "Entry": "2021",
+            "Location": "Gurgaon",
+            "SelectInvestors": "Tiger Global, Sequoia Capital India, SoftBank, Apoletto, Zomato"
+        },
+        {
+            "Num": "61",
+            "Company": "Eruditus",
+            "Sector": "Edtech - Executive Education",
+            "Valuation": "3.2",
+            "Entry": "2021",
+            "Location": "Mumbai",
+            "SelectInvestors": "SoftBank, Accel, Sequoia Capital India, Bertelsmann India Investments"
+        },
+        {
+            "Num": "60",
+            "Company": "CoinDCX",
+            "Sector": "Cryptocurrency Exchange",
+            "Valuation": "1.1",
+            "Entry": "2021",
+            "Location": "Mumbai",
+            "SelectInvestors": "B Capital, Coinbase Ventures, Polychain Capital"
+        },
+        {
+            "Num": "59",
+            "Company": "upGrad",
+            "Sector": "Edtech - Higher Studies",
+            "Valuation": "1.2",
+            "Entry": "2021",
+            "Location": "Mumbai",
+            "SelectInvestors": "Temasek, IFC"
+        },
+        {
+            "Num": "58",
+            "Company": "MindTickle",
+            "Sector": "SaaS - HR - Training",
+            "Valuation": "1.2",
+            "Entry": "2021",
+            "Location": "Pune/San Francisco",
+            "SelectInvestors": "SoftBank, Accel India, Qualcomm Ventures, Norwest"
+        },
+        {
+            "Num": "57",
+            "Company": "BharatPe",
+            "Sector": "Fintech - Payments",
+            "Valuation": "2.8",
+            "Entry": "2021",
+            "Location": "Delhi",
+            "SelectInvestors": "Beenext, Sequoia Capital India, Tiger Global, Steadview Capital"
+        },
+        {
+            "Num": "56",
+            "Company": "OfBusiness",
+            "Sector": "NBFC - SME Loans",
+            "Valuation": "3",
+            "Entry": "2021",
+            "Location": "Gurgaon",
+            "SelectInvestors": "SoftBank, Matrix Partners India, Zodius Capital, Falcon Edge Capital"
+        },
+        {
+            "Num": "55",
+            "Company": "Droom",
+            "Sector": "Marketplace - Used Cars",
+            "Valuation": "1.2",
+            "Entry": "2021",
+            "Location": "Gurgaon",
+            "SelectInvestors": "Beenos Partners, Lightbox, Axis Capital Partners, Beenext"
+        },
+        {
+            "Num": "54",
+            "Company": "BlackBuck",
+            "Sector": "Logistics Services",
+            "Valuation": "1",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Accel India, Sequoia Capital India, Sands Capital, IFC, Tiger Global"
+        },
+        {
+            "Num": "53",
+            "Company": "BrowserStack",
+            "Sector": "SaaS - Software Testing",
+            "Valuation": "4",
+            "Entry": "2021",
+            "Location": "Mumbai/Dublin",
+            "SelectInvestors": "Accel, Bond Capital, Insight Venture Partners"
+        },
+        {
+            "Num": "52",
+            "Company": "Zeta",
+            "Sector": "Fintech - Enterprise Software - Neo Banking",
+            "Valuation": "1.4",
+            "Entry": "2021",
+            "Location": "Bangalore/San Francisco",
+            "SelectInvestors": "SoftBank"
+        },
+        {
+            "Num": "51",
+            "Company": "Moglix",
+            "Sector": "B2B E-Commerce - Industrial Equipment",
+            "Valuation": "1",
+            "Entry": "2021",
+            "Location": "Noida",
+            "SelectInvestors": "Accel India, Jungle Ventures, Tiger Global, Sequoia Capital India, IFC"
+        },
+        {
+            "Num": "50",
+            "Company": "Urban Company",
+            "Sector": "Marketplace - Handyman Services",
+            "Valuation": "2.1",
+            "Entry": "2021",
+            "Location": "Delhi",
+            "SelectInvestors": "Tiger Global, Steadview Capital, Accel India, Elevation Capital, Vy Capital, Prosus Ventures"
+        },
+        {
+            "Num": "49",
+            "Company": "ChargeBee",
+            "Sector": "SaaS - Subscription Billing Solution",
+            "Valuation": "1.4",
+            "Entry": "2021",
+            "Location": "Chennai",
+            "SelectInvestors": "Tiger Global, Steadview Capital, Sapphire Ventures, Accel India, Insight Venture Partners"
+        },
+        {
+            "Num": "48",
+            "Company": "Gupshup",
+            "Sector": "Conversational Messaging",
+            "Valuation": "1.4",
+            "Entry": "2021",
+            "Location": "Mumbai",
+            "SelectInvestors": "Tiger Global, Charles River Ventures, Helion Ventures"
+        },
+        {
+            "Num": "47",
+            "Company": "ShareChat",
+            "Sector": "Social Media",
+            "Valuation": "2.8",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "India Quotient, Elevation Capital, Lightspeed Ventures, Tiger Global, Twitter"
+        },
+        {
+            "Num": "46",
+            "Company": "Groww",
+            "Sector": "Fintech - Brokerage & Mutual Funds",
+            "Valuation": "1",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Sequoia Capital India, Y Combinator, Tiger Global, Ribbit Capital"
+        },
+        {
+            "Num": "45",
+            "Company": "PharmEasy",
+            "Sector": "E-Commerce - Online Pharmacy",
+            "Valuation": "4",
+            "Entry": "2021",
+            "Location": "Mumbai",
+            "SelectInvestors": "Orios VP, Eight Roads Ventures, Temasek, Naspers"
+        },
+        {
+            "Num": "44",
+            "Company": "CRED",
+            "Sector": "Fintech - Payments & Credit Card Rewards",
+            "Valuation": "2.2",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Sequoia Capital India, Ribbit Capital, DST Global, Falcon Edge Capital"
+        },
+        {
+            "Num": "43",
+            "Company": "Meesho",
+            "Sector": "E-Commerce - Social Commerce",
+            "Valuation": "4.9",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Sequoia Capital India, Elevation Capital, SoftBank, Naspers"
+        },
+        {
+            "Num": "42",
+            "Company": "FirstCry",
+            "Sector": "E-Commerce - Baby Care Products",
+            "Valuation": "1.7",
+            "Entry": "2021",
+            "Location": "Pune",
+            "SelectInvestors": "Chiratae Ventures, Elevation Capital, Vertex, SoftBank"
+        },
+        {
+            "Num": "41",
+            "Company": "Five Star Business Finance",
+            "Sector": "NBFC",
+            "Valuation": "1.4",
+            "Entry": "2021",
+            "Location": "Chennai",
+            "SelectInvestors": "Matrix Partners India, Sequoia Capital India, Norwest, Morgan Stanley, TPG Capital"
+        },
+        {
+            "Num": "40",
+            "Company": "Infra.Market",
+            "Sector": "B2B E-Commerce - Construction Materials",
+            "Valuation": "2.5",
+            "Entry": "2021",
+            "Location": "Thane",
+            "SelectInvestors": "Accel India, Nexus Venture Partners, Tiger Global, Evolvence India"
+        },
+        {
+            "Num": "39",
+            "Company": "Innovaccer",
+            "Sector": "SaaS - Healthcare Data Analytics",
+            "Valuation": "1.3",
+            "Entry": "2021",
+            "Location": "Noida",
+            "SelectInvestors": "WestBridge, Lightspeed Ventures, M12 (Microsoft), Tiger Global"
+        },
+        {
+            "Num": "38",
+            "Company": "Digit",
+            "Sector": "Fintech - General Insurance",
+            "Valuation": "3.5",
+            "Entry": "2021",
+            "Location": "Bangalore",
+            "SelectInvestors": "Fairfax Holdings, A91 Partners, Faering Capital, TVS Capital"
+        },
+        {
+            "Num": "37",
+            "Company": "Glance InMobi",
+            "Sector": "Content - Lockscreen",
+            "Valuation": "1",
+            "Entry": "2020",
+            "Location": "Bangalore",
+            "SelectInvestors": "Mithril Capital, Google"
+        },
+        {
+            "Num": "36",
+            "Company": "Dailyhunt",
+            "Sector": "Content - News",
+            "Valuation": "3",
+            "Entry": "2020",
+            "Location": "Bangalore",
+            "SelectInvestors": "Matrix Partners India, Omidyar Network, Sequoia Capital India, Falcon Edge Capital"
+        },
+        {
+            "Num": "35",
+            "Company": "Zenoti",
+            "Sector": "SaaS - Salon & Spa Management",
+            "Valuation": "1.5",
+            "Entry": "2020",
+            "Location": "Hyderabad/Bellevue",
+            "SelectInvestors": "Accel India, Norwest, Tiger Global, Steadview Capital, Advent International"
+        },
+        {
+            "Num": "34",
+            "Company": "PhonePe",
+            "Sector": "Fintech - Payments",
+            "Valuation": "5.5",
+            "Entry": "2020",
+            "Location": "Bangalore",
+            "SelectInvestors": "Tiger Global, Tencent"
+        },
+        {
+            "Num": "33",
+            "Company": "Cars24",
+            "Sector": "Marketplace - Used Cars",
+            "Valuation": "1.8",
+            "Entry": "2020",
+            "Location": "Gurgaon",
+            "SelectInvestors": "Asia Venture Group, Apoletto, Unbound, DST Global, Sequoia Capital India, SoftBank"
+        },
+        {
+            "Num": "32",
+            "Company": "RazorPay",
+            "Sector": "Fintech - Payment Gateway",
+            "Valuation": "3",
+            "Entry": "2020",
+            "Location": "Bangalore",
+            "SelectInvestors": "Matrix Partners India, Tiger Global, Sequoia Capital India, DST Global"
+        },
+        {
+            "Num": "31",
+            "Company": "Unacademy",
+            "Sector": "Edtech",
+            "Valuation": "3.4",
+            "Entry": "2020",
+            "Location": "Bangalore",
+            "SelectInvestors": "Blume Ventures, Nexus Venture Partners, Sequoia Capital India, Elevation Capital, General Atlantic, SoftBank"
+        },
+        {
+            "Num": "30",
+            "Company": "Postman",
+            "Sector": "SaaS - API Development & Testing",
+            "Valuation": "5.6",
+            "Entry": "2020",
+            "Location": "Bangalore/San Francisco",
+            "SelectInvestors": "Nexus Ventures, Charles River Ventures, Insight Venture Partners"
+        },
+        {
+            "Num": "29",
+            "Company": "Nykaa",
+            "Sector": "E-Commerce - Personal Care & Cosmetics",
+            "Valuation": "1.8",
+            "Entry": "2020",
+            "Location": "Mumbai",
+            "SelectInvestors": "Techpro Ventures, TVS Capital, Sharrp Ventures, TPG Growth"
+        },
+        {
+            "Num": "28",
+            "Company": "Pine Labs",
+            "Sector": "Fintech - PoS Payment Solutions",
+            "Valuation": "3",
+            "Entry": "2020",
+            "Location": "Noida",
+            "SelectInvestors": "Sequoia Capital India, New Atlantic Ventures, Altimeter Capital, Temasek, Mastercard"
+        },
+        {
+            "Num": "27",
+            "Company": "Lenskart",
+            "Sector": "E-Commerce - Eyewear",
+            "Valuation": "2.5",
+            "Entry": "2019",
+            "Location": "Bangalore",
+            "SelectInvestors": "SoftBank, Kedaara Capital, TPG, Chiratae Ventures, TR Capital"
+        },
+        {
+            "Num": "26",
+            "Company": "Ola Electric",
+            "Sector": "Mobility - Electric",
+            "Valuation": "3",
+            "Entry": "2019",
+            "Location": "Bangalore",
+            "SelectInvestors": "SoftBank, Tiger Global, Matrix Partners"
+        },
+        {
+            "Num": "25",
+            "Company": "CitiusTech",
+            "Sector": "IT Services - Healthcare",
+            "Valuation": "1.1",
+            "Entry": "2019",
+            "Location": "Mumbai/Princeton",
+            "SelectInvestors": "General Atlantic, Baring Asia"
+        },
+        {
+            "Num": "24",
+            "Company": "Icertis",
+            "Sector": "SaaS - Contract Management",
+            "Valuation": "2.8",
+            "Entry": "2019",
+            "Location": "Pune/Bellevue",
+            "SelectInvestors": "Eight Roads, B Capital, PremjiInvest"
+        },
+        {
+            "Num": "23",
+            "Company": "Druva Software",
+            "Sector": "SaaS - Data Management",
+            "Valuation": "2",
+            "Entry": "2019",
+            "Location": "Pune/Sunnyvale",
+            "SelectInvestors": "WestBridge, Nexus Ventures, Sequoia Capital"
+        },
+        {
+            "Num": "22",
+            "Company": "Rivigo",
+            "Sector": "Logistics Services",
+            "Valuation": "1.1",
+            "Entry": "2019",
+            "Location": "Gurgaon",
+            "SelectInvestors": "Elevation Capital, Warburg Pincus"
+        },
+        {
+            "Num": "21",
+            "Company": "BigBasket",
+            "Sector": "E-Commerce - Groceries",
+            "Valuation": "2",
+            "Entry": "2019",
+            "Location": "Bangalore",
+            "SelectInvestors": "Ascent Capital, Helion Ventures, Bessemer, IFC, Alibaba"
+        },
+        {
+            "Num": "20",
+            "Company": "Dream11",
+            "Sector": "Gaming",
+            "Valuation": "5",
+            "Entry": "2019",
+            "Location": "Mumbai",
+            "SelectInvestors": "Kalaari Capital, Tencent, Multiples PE, Steadview, Falcon Edge Capital"
+        },
+        {
+            "Num": "19",
+            "Company": "Delhivery",
+            "Sector": "Logistics Services",
+            "Valuation": "3",
+            "Entry": "2019",
+            "Location": "Gurgaon",
+            "SelectInvestors": "Nexus Ventures, Multiples PE, Tiger Global, Carlyle, SoftBank, Fosun Group"
+        },
+        {
+            "Num": "18",
+            "Company": "BillDesk*",
+            "Sector": "Fintech - B2B Payments",
+            "Valuation": "1.6",
+            "Entry": "2018",
+            "Location": "Mumbai",
+            "SelectInvestors": "SIDBI VC, TA Associates, General Atlantic"
+        },
+        {
+            "Num": "17",
+            "Company": "Freshworks",
+            "Sector": "SaaS - CRM",
+            "Valuation": "3.5",
+            "Entry": "2018",
+            "Location": "Chennai/San Mateo",
+            "SelectInvestors": "Accel, Tiger Global, Google, Sequoia Capital"
+        },
+        {
+            "Num": "16",
+            "Company": "Udaan",
+            "Sector": "B2B E-Commerce",
+            "Valuation": "3.1",
+            "Entry": "2018",
+            "Location": "Bangalore",
+            "SelectInvestors": "Lightspeed Ventures, DST Global, Tencent"
+        },
+        {
+            "Num": "15",
+            "Company": "OYO Rooms",
+            "Sector": "Proptech - Hotel Booking",
+            "Valuation": "9.6",
+            "Entry": "2018",
+            "Location": "Gurgaon",
+            "SelectInvestors": "Lightspeed Ventures, Sequoia Capital, SoftBank"
+        },
+        {
+            "Num": "14",
+            "Company": "PolicyBazaar",
+            "Sector": "Fintech - Insurance",
+            "Valuation": "2.4",
+            "Entry": "2018",
+            "Location": "Gurgaon",
+            "SelectInvestors": "Info Edge, Intel, Inventus Capital, Tiger Global, SoftBank, Tencent"
+        },
+        {
+            "Num": "13",
+            "Company": "Swiggy",
+            "Sector": "Foodtech",
+            "Valuation": "5.5",
+            "Entry": "2018",
+            "Location": "Bangalore",
+            "SelectInvestors": "Accel, Elevation Capital, Norwest, Naspers, Tencent"
+        },
+        {
+            "Num": "12",
+            "Company": "PayTM Mall",
+            "Sector": "E-Commerce",
+            "Valuation": "3",
+            "Entry": "2018",
+            "Location": "Bangalore",
+            "SelectInvestors": "Elevation Capital, Alibaba, SoftBank, eBay"
+        },
+        {
+            "Num": "11",
+            "Company": "BYJUS",
+            "Sector": "Edtech",
+            "Valuation": "18",
+            "Entry": "2018",
+            "Location": "Bangalore",
+            "SelectInvestors": "Aarin Capital, Sequoia Capital, Lightspeed Ventures, Tencent, General Atlantic, Tiger Global"
+        },
+        {
+            "Num": "10",
+            "Company": "ShopClues*",
+            "Sector": "E-Commerce",
+            "Valuation": "1.1",
+            "Entry": "2016",
+            "Location": "Gurgaon",
+            "SelectInvestors": "Nexus Ventures, Helion Ventures, Beenos, Tiger Global, Others"
+        },
+        {
+            "Num": "9",
+            "Company": "Hike*",
+            "Sector": "Social Media - Messaging",
+            "Valuation": "1.4",
+            "Entry": "2016",
+            "Location": "Delhi",
+            "SelectInvestors": "Tiger Global, Tencent, Foxconn"
+        },
+        {
+            "Num": "8",
+            "Company": "Zomato*",
+            "Sector": "Foodtech",
+            "Valuation": "5.4",
+            "Entry": "2015",
+            "Location": "Gurgaon",
+            "SelectInvestors": "Info Edge, Sequoia Capital, Vy Capital, Alibaba"
+        },
+        {
+            "Num": "7",
+            "Company": "Quikr*",
+            "Sector": "Marketplace - Classifieds",
+            "Valuation": "1.5",
+            "Entry": "2015",
+            "Location": "Bangalore",
+            "SelectInvestors": "Matrix Partners, Omidyar Network, Norwest, Kinnevik"
+        },
+        {
+            "Num": "6",
+            "Company": "PayTM",
+            "Sector": "Fintech - Payments & Wallet",
+            "Valuation": "16",
+            "Entry": "2015",
+            "Location": "Noida",
+            "SelectInvestors": "Saama Capital, Elevation Capital, Alibaba, Berkshire Hathway"
+        },
+        {
+            "Num": "5",
+            "Company": "Ola Cabs",
+            "Sector": "Mobility - Ride Aggregator",
+            "Valuation": "6.7",
+            "Entry": "2015",
+            "Location": "Bangalore",
+            "SelectInvestors": "Tiger Global, Matrix Partners, Steadview, SoftBank, Tencent"
+        },
+        {
+            "Num": "4",
+            "Company": "Snapdeal*",
+            "Sector": "E-Commerce",
+            "Valuation": "2.4",
+            "Entry": "2014",
+            "Location": "Delhi",
+            "SelectInvestors": "Kalaari Capital, Nexus Ventures, Bessemer, SoftBank, Alibaba"
+        },
+        {
+            "Num": "3",
+            "Company": "Flipkart*",
+            "Sector": "E-Commerce",
+            "Valuation": "37.6",
+            "Entry": "2012",
+            "Location": "Bangalore",
+            "SelectInvestors": "Accel, Tiger Global, Naspers, SoftBank, Tencent"
+        },
+        {
+            "Num": "2",
+            "Company": "Mu Sigma",
+            "Sector": "SaaS - Analytics",
+            "Valuation": "1.5",
+            "Entry": "2013",
+            "Location": "Bangalore",
+            "SelectInvestors": "Accel, Sequoia Capital, General Atlantic"
+        },
+        {
+            "Num": "1",
+            "Company": "InMobi",
+            "Sector": "Adtech - Mobile Ads",
+            "Valuation": "1",
+            "Entry": "2011",
+            "Location": "Bangalore",
+            "SelectInvestors": "KPCB, Sherpalo Ventures, SoftBank"
+        }
+    ]
